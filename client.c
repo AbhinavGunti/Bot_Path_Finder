@@ -1,4 +1,4 @@
-#include "PES1UG20CS008_H.h"
+#include "header.h"
 int main()
 {
     struct node *head[10];
